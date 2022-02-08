@@ -2,11 +2,10 @@
 title: "2019 Programming Portfolio"
 last_modified_at: 2022-02-08T16:20:02-05:00
 categories:
-  - Blog
+  - portfolio
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - portfolio
+  - high school
 ---
 
 # Welcome to Jacob Schwartz's 2019 Programming Portfolio
