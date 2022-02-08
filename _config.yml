@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Jacob Schwartz! I'm a Computer Science major at Utah State University"
+  name   : "Quick Biography:"
+  #avatar : "/assets/images/JacobSS.jpg"
+  bio    : "Hi, I'm Jacob Schwartz! I'm a 19-year-old Computer Science major at Utah State University. I've been programming for about 5 years, and I'm most familiar with Java, but I also know some Python and C++."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Bamboo72"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/jaschwartz27/?hl=en"
 
 footer:
   links:
@@ -80,10 +80,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Bamboo72"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/jaschwartz27/?hl=en"
 
 defaults:
   # _posts
