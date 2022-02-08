@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "First Lastname"
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Jacob Schwartz! I'm a Computer Science major at Utah State Universityeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+  bio    : "Hi, I'm Jacob Schwartz! I'm a Computer Science major at Utah State University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
