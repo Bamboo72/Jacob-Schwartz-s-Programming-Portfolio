@@ -2,10 +2,10 @@
 title: "2021 Programming Portfolio"
 date: 2022-02-08T15:34:30-04:00
 categories:
-  - blog
+  - portfolio
 tags:
-  - Jekyll
-  - update
+  - portfolio
+  - high school
 ---
 
 # Welcome to Jacob Schwartz's 2021 Programming Portfolio
