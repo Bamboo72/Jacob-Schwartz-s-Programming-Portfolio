@@ -2,10 +2,10 @@
 title: "2021 Programming Portfolio"
 date: 2022-02-08T15:34:30-04:00
 categories:
-  - portfolio
+  - Portfolios
 tags:
-  - portfolio
-  - high school
+  - Portfolio
+  - High school work 
 ---
 
 # Welcome to Jacob Schwartz's 2021 Programming Portfolio
